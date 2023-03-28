@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melistoksoy
-- 👀 I’m interested in front end web development.
+- 👀 I’m interested web development.
 - 🌱 I’m currently learning react.
 
 <!---
